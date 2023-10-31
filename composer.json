@@ -1,0 +1,27 @@
+{
+    "name": "cmslz/gaode-map",
+    "description": "高德地图",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "高德地图"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cmslz\\GaodeMap\\": "src/"
+        },
+        "files": [
+            "src/function.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "xiaobai"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
