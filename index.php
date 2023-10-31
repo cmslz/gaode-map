@@ -1,7 +1,7 @@
 <?php
 
 require(__DIR__ . '/vendor/autoload.php');
-$application = new \Cmslz\GaodeMap\Application('e10418beefc79ac3f34ac3eaf724f61c');
+$application = new \Cmslz\GaodeMap\Application('e10418beefc7xxsada');
 //$result = $application->webServerApi()->geoCodeGeo('北京市朝阳区阜通东大街6号');
 //$result = $application->webServerApi()->geoCodeReGeo('116.482086,39.990496');
 //$result = $application->webServerApi()->directionWalkingV3('116.434307,39.90909', '116.434446,39.90816');
